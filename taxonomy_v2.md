@@ -175,7 +175,7 @@
 | 442 | /Computers & Electronics/Software/Multimedia Software                                                    |
 | 141 | /Computers & Electronics/Software/Multimedia Software/Audio & Music Software                             |
 | 144 | /Computers & Electronics/Software/Multimedia Software/Graphics & Animation Software                      |
-| 443 | /Computers & Electronics/Software/Multimedia Software/Photo & Video Software                             |
+| 443ters & Electronics/Software/Multimedia Software/Photo & Video Software                             |
 | 149 | /Finance                                                                                                 |
 | 150 | /Finance/Accounting & Auditing                                                                           |
 | 151 | /Finance/Accounting & Auditing/Tax Preparation & Planning                                                |
